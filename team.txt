@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Gilly Dyvan
-=======
-Jordy
->>>>>>> 94bd8dbb45e0780329a859738e6b652b9bb19652
+Dan
