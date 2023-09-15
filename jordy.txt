@@ -1,8 +1,2 @@
 Jordy-Ardy Himbarwa
-<<<<<<< HEAD:createtext.txt
 
-Dan Dushime
-
-Gilly Dyvan Toukam
-=======
->>>>>>> ab7d2429b09ebccc8fce55cb753a70ed6cc36e7f:jordy.txt
